@@ -1,5 +1,7 @@
 # github-repo-backup
 
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated GitHub repository backup banner" width="100%"></p>
+
 Back up all your GitHub repositories as full mirror clones with one Python script. Needs only Python 3.8+ and `git` — no third-party packages.
 
 ## Features
